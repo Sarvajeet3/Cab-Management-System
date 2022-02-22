@@ -20,3 +20,5 @@ CAB MANAGEMENT SYSTEM
 
 
 5. History page
+
+![History page](https://user-images.githubusercontent.com/100133679/155061741-4be34673-6a1b-446b-8bd0-6ec33438349e.jpg)
