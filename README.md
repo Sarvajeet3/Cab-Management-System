@@ -6,13 +6,12 @@ CAB MANAGEMENT SYSTEM
 
 2. Sign-Up page
 
-
 ![Sign-Up](https://user-images.githubusercontent.com/100133679/155061158-bbb6e5d1-759a-47a5-aeac-ccb448312660.jpg)
-
 
 
 3. Main page
 
+![Main-page](https://user-images.githubusercontent.com/100133679/155061342-47bec132-da50-4520-b6bc-6f21c56b08ce.jpg)
 
 
 4. Reservation page
