@@ -4,6 +4,7 @@ Cab Management system is Desktop Application (.exe) created using vb.net
 ## Application:
 
 ### To run this application you must have to install Visual Studio Framework
+(recommanded visual studio with vb.net)
 
 #### https://visualstudio.microsoft.com/downloads/
 
