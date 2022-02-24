@@ -10,6 +10,13 @@ Cab Management system is Desktop Application (.exe) created using vb.net
 
 ##### [Cab_Reservation_System.zip](https://github.com/Sarvajeet3/Cab-Management-System/files/8113649/Cab_Reservation_System.zip)
 
+## Installation 
+
+1. Download appliaction from above link
+2. Extract the downloaded file
+3. Open extracted file
+4. Go to Cab_Reservation_System > Cab_Reservation_System > CAB_APP > Debug
+5. Run setup file to install application.
 
 ## Interface of application
 
