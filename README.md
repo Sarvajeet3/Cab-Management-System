@@ -1,4 +1,3 @@
-# CAB MANAGEMENT SYSTEM
 
 Cab Management system is Desktop Application (.exe) created using vb.net
 
