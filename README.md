@@ -1,5 +1,7 @@
 # CAB MANAGEMENT SYSTEM
 
+Cab Management system is Desktop Application (.exe) created using vb.net
+
 ## Application:
 
 ### To run this application you must have to install Visual Studio Framework
